@@ -148,4 +148,4 @@ This project started from a RAG tutorial. While building it, I ran into real pro
 ## Author
 
 **Nazifa Kazimi** – M.Sc. Computer Science (Bauhaus-Universität Weimar)
-[LinkedIn](https://www.linkedin.com/in/your-profile) · [GitHub](https://github.com/nazifakazimi24)
+[LinkedIn](https://www.linkedin.com/in/nazifa-kazimi-352659142/) · [GitHub](https://github.com/nazifakazimi24)
